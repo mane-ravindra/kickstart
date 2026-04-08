@@ -17,4 +17,4 @@ Kick Start Journey
   * Then push:
       * git push --set-upstream origin <brnach>
       * git push --set-upstream origin hw
-  * Reference - https://github.com/copilot/c/46d44ddf-e255-44f7-873d-90d249f05294
+  * Reference - https://github.com/copilot/c/46d44ddf-e255-44f7-873d-90d249f05294 
